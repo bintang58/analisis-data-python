@@ -49,7 +49,7 @@ git clone https://github.com/bintang58/analisis-data-python
 cd analisis-data-python
 ```
 
-### 📦 Install Dependency
+### 📦 2. Install Dependency
 
 Pastikan sudah menginstal semua pustaka yang diperlukan dengan menjalankan perintah:
 
@@ -57,7 +57,7 @@ Pastikan sudah menginstal semua pustaka yang diperlukan dengan menjalankan perin
 pip install -r requirements.txt
 ```
 
-### ▶️ Jalankan Streamlit App
+### ▶️ 3. Jalankan Streamlit App
 
 Jalankan Streamlit untuk menampilkan dashboard:
 
