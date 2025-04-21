@@ -40,7 +40,7 @@ Atau Anda bisa langsung mengunjungi website berikut: [Bike Sharing Dashboard](ht
 
 ## 📂 Struktur File
 
-```bash
+```plaintext
 📂 analisis-data-python
 ├── 📂 dashboard
 │   ├── dashboard.py
