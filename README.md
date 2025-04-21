@@ -36,12 +36,12 @@ Jalankan Streamlit untuk menampilkan dashboard:
 streamlit run dashboard/dashboard.py
 ```
 
-Atau Anda bisa langsung mengunjungi website berikut: [Bike Sharing Dashboard](https://analisis-data-python-bintangcahyaa.streamlit.app/)
+Atau Anda bisa langsung mengunjungi website berikut: [Bike Sharing Dashboard](https://bike-sharing-dashboards.streamlit.app/)
 
 ## 📂 Struktur File
 
 ```bash
-📂 bike-sharing-analysis
+📂 analisis-data-python
 ├── 📂 dashboard
 │   ├── dashboard.py
 │   ├── day_clean.csv
