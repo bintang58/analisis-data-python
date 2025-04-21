@@ -1,6 +1,6 @@
-# 📊 Submission - Belajar Analisis Data dengan Python
+# 📦 Submission - Belajar Analisis Data dengan Python
 
-Repositori ini berisi proyek akhir dari modul **Belajar Analisis Data dengan Python** (Laskar AI). Proyek ini berfokus pada pembuatan dashboard interaktif menggunakan **Streamlit** untuk menganalisis data penyewaan sepeda.
+Repositori ini berisi proyek akhir dari modul **Belajar Analisis Data dengan Python** dalam pelatihan **Laskar AI**. Proyek ini berfokus pada pembuatan dashboard interaktif menggunakan **Streamlit** untuk menganalisis data penyewaan sepeda.
 
 ---
 
@@ -40,6 +40,13 @@ Dashboard interaktif ini dibuat menggunakan Streamlit untuk menganalisis data pe
 
 ---
 
+## 📂 Akses Dataset
+
+Dataset digunakan berasal dari:  
+📥 [Google Drive - Bike Sharing Dataset](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view)
+
+---
+
 ## 🚀 Menjalankan Dashboard
 
 ### 🔁 1. Clone Repository
@@ -71,13 +78,6 @@ streamlit run dashboard/dashboard.py
 
 📍 Kamu juga bisa melihat versi online dari dashboard melalui:  
 🔗 [Bike Sharing Dashboard (Streamlit Cloud)](https://bike-sharing-dashboards.streamlit.app/)
-
----
-
-## 📊 Dataset
-
-Dataset digunakan berasal dari:  
-🔗 [UCI Machine Learning Repository - Bike Sharing Dataset](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view)
 
 ---
 
